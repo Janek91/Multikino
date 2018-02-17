@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{118FEA92-917E-4364-B8F2-4A0D03FB1BDD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Multikino PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Multikino/Program.cs">
+    <Files>
+      <File FileName="Multikino/Program.cs" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
